@@ -38,9 +38,9 @@ Commissions, service fees, delivery charges, subscriptions, refunds, and settlem
 
 The product ambition is global, but payments, financial services, transportation, delivery, identity checks, consumer protection, privacy, and licensing requirements vary by jurisdiction.
 
-## 10. Separate product identity
+## 10. Identity integration and assurance
 
-ShadeFast is independent and must not be described as an earlier version, module, prerequisite, or eventual transformation of this platform. HDIP is also a separate project that may integrate as infrastructure.
+Identity credentials can establish verified attributes, but they do not prove conduct, competence, product authenticity, or service quality. Apply role-specific assurance and maintain separate reputation, monitoring, review, and enforcement processes.
 
 ## 11. Preserve ideas before prioritising
 
