@@ -6,19 +6,18 @@ This document separates current direction from matters that still require invest
 
 | ID | Topic | Current direction | Status |
 |---|---|---|---|
-| D-001 | Product identity | This is an independent platform, separate from ShadeFast. | Confirmed |
-| D-002 | Working name | THE-PLATFORM is a temporary repository/project label only. | Confirmed |
-| D-003 | Final naming | Final product name will be selected later after creative exploration and availability assessment. | Deferred |
-| D-004 | Experience model | One coherent platform with dedicated experiences for different activities. | Confirmed direction |
-| D-005 | Social and media feeds | Text/social, video, and audio should have distinct experiences rather than being indiscriminately mixed. | Confirmed direction |
-| D-006 | Marketplace | Managed and verified commerce, beyond a basic peer-to-peer classifieds model. | Confirmed direction |
-| D-007 | Marketplace role | The platform intends to act as an intermediary in commerce, with trust and transaction protections. Exact operating and legal model remains open. | Direction; details open |
-| D-008 | Services | Include restaurant ordering, transportation, appointments, and other on-demand services. | Confirmed direction |
-| D-009 | Work and gatherings | Include meetings, appointments, movie parties, conferences, and other group experiences. | Confirmed direction |
-| D-010 | Identity | HDIP is a separate project and is intended to provide the verification foundation for verified participation. | Confirmed direction |
-| D-011 | Monetisation | Aim for monetisation eligibility from successful required verification, subject to method-specific requirements. | Confirmed direction |
-| D-012 | Revenue | Do not rely only on ads and premium subscriptions; commerce and services are important potential revenue engines. | Confirmed direction |
-| D-013 | Scope | The full feature vision is long-term; implementation will be staged. | Confirmed direction |
+| D-001 | Working name | THE-PLATFORM is a temporary repository/project label only. | Confirmed |
+| D-002 | Final naming | Final product name will be selected later after creative exploration and availability assessment. | Deferred |
+| D-003 | Experience model | One coherent platform with dedicated experiences for different activities. | Confirmed direction |
+| D-004 | Social and media feeds | Text/social, video, and audio should have distinct experiences rather than being indiscriminately mixed. | Confirmed direction |
+| D-005 | Marketplace | Managed and verified commerce, beyond a basic peer-to-peer classifieds model. | Confirmed direction |
+| D-006 | Marketplace role | The platform intends to act as an intermediary in commerce, with trust and transaction protections. Exact operating and legal model remains open. | Direction; details open |
+| D-007 | Services | Include restaurant ordering, transportation, appointments, and other on-demand services. | Confirmed direction |
+| D-008 | Work and gatherings | Include meetings, appointments, movie parties, conferences, and other group experiences. | Confirmed direction |
+| D-009 | Identity | HDIP is intended to provide the verification foundation for verified participation. | Confirmed direction |
+| D-010 | Monetisation | Aim for monetisation eligibility from successful required identity verification, subject to method-specific requirements. | Confirmed direction |
+| D-011 | Revenue | Do not rely only on ads and premium subscriptions; commerce and services are important potential revenue engines. | Confirmed direction |
+| D-012 | Scope | The full feature vision is long-term; implementation will be staged. | Confirmed direction |
 
 ## Open product questions
 
@@ -26,7 +25,7 @@ This document separates current direction from matters that still require invest
 - What account types and profile types are required?
 - Can one person operate separate personal, creator, and business profiles?
 - What exact HDIP proofs or credentials are needed for each role?
-- Which activities require additional verification beyond HDIP?
+- Which activities require additional verification beyond identity credentials?
 - How should minors, age-restricted services, and guardian-managed accounts be handled?
 - How are revoked, expired, compromised, or disputed credentials handled?
 - What information is disclosed to the platform, and what can be verified through selective disclosure?
