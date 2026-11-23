@@ -64,7 +64,7 @@ Trust cannot rely on identity verification alone. Merchant quality, fulfilment p
 
 The platform should provide distinct environments for written social content, video, music, podcasts, audiobooks, and live broadcasts. Creators should have tools to publish, manage audiences, understand performance, and earn through multiple eligible methods.
 
-The product direction is to make monetisation eligibility available from the point of successful required verification, rather than imposing arbitrary audience-size thresholds as the universal prerequisite. Eligibility is not guaranteed income. Each monetisation method remains subject to relevant content, rights, policy, legal, safety, and payment requirements.
+The product direction is to make monetisation eligibility available from the point of successful required identity verification, rather than imposing arbitrary audience-size thresholds as the universal prerequisite. Eligibility is not guaranteed income. Each monetisation method remains subject to relevant content, rights, policy, legal, safety, and payment requirements.
 
 ## Meetings, events, and shared experiences
 
@@ -94,17 +94,13 @@ Pricing must be transparent. Convenience fees or commissions should correspond t
 
 ## Identity and verification
 
-HDIP (Hybrid Decentralised Identity Passport) is a separate project and may serve as an identity and credential verification foundation for this platform.
-
-The intended direction is to require HDIP-backed verification for verified status and monetisation eligibility. Different roles may require additional credentials: an individual, creator, merchant, restaurant, driver, professional, or organisation should not all be treated as identical verification cases.
+HDIP (Hybrid Decentralised Identity Passport) is intended to provide an identity and credential verification foundation for verified participation and monetisation eligibility. Different roles may require additional credentials: an individual, creator, merchant, restaurant, driver, professional, or organisation should not all be treated as identical verification cases.
 
 Identity proof is not a guarantee of conduct, product quality, professional competence, or successful fulfilment. The platform needs separate reputation, monitoring, moderation, and enforcement systems.
 
-## Product boundaries
+## Naming
 
-- This platform is independent of ShadeFast. ShadeFast remains a separate product with its own identity, architecture, purpose, audience, and business model.
-- HDIP remains a separate identity infrastructure project. The platform may integrate with it without owning or redefining it.
-- “THE-PLATFORM” is only a working repository label. The final product name and brand are undecided.
+The final product name and brand identity have not been selected. The repository name is temporary. Naming, trademark screening, domain availability, and handle availability will be assessed as a separate exercise.
 
 ## Current stage
 
