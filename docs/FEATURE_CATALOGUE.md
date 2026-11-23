@@ -18,16 +18,17 @@ This catalogue preserves the feature ideas discussed so far. Inclusion means the
 - Account deactivation, deletion, and data export.
 - Consent and privacy settings.
 
-### Account and profile types
-- Personal accounts.
-- Creator profiles.
-- Professional profiles.
-- Merchant and business profiles.
-- Restaurant profiles.
-- Driver and service-provider profiles.
-- Organisation profiles.
-- Role-specific verification and permissions.
-- Potential multiple profiles or managed identities under one user, subject to account-model design.
+### Account and identity model
+- One primary account per individual; no need for multiple personal profiles for different activities.
+- Independent organisation accounts.
+- Organisation invitations and membership management.
+- Multiple individuals associated with one organisation.
+- Individuals associated with multiple organisations.
+- HDIP-established identity, age, affiliation, ownership, employment, professional, business, certificate, and licence claims as applicable.
+- Scoped organisation roles and permissions managed by the platform.
+- Multiple authorised organisation owners, with HDIP-established authority and explicit recovery, transfer, and succession rules.
+- Clear switching between an individual's own account and an organisation context they are authorised to represent.
+- Visible indication of the active identity when publishing, communicating, transacting, or administering.
 
 ### Unified platform experience
 - Persistent account and session across destinations.
@@ -38,7 +39,12 @@ This catalogue preserves the feature ideas discussed so far. Inclusion means the
 - Recently visited destinations.
 - Context-preserving transitions.
 - Persistent mini-player for eligible audio/video.
+- Essential background music and audio playback across navigation, with pause and stop controls.
 - Background activity indicators for active calls, streams, or tasks.
+- Progressive enablement and optional installation of experience modules and role-specific tools.
+- Lean initial installation focused on core platform capabilities.
+- Module installation, update, disablement, removal, and compatibility management.
+- On-demand resource downloads, including offline media and optional assets.
 
 ## 2. Social networking
 
@@ -58,13 +64,15 @@ This catalogue preserves the feature ideas discussed so far. Inclusion means the
 - Hashtags and topics.
 
 ### Relationships and communities
-- Following and followers.
-- Friends or connections.
-- Public and private profiles.
+- Following and followers, in the manner of follow-based social networks.
+- Mutual friendship relationships where supported by the relevant experience.
+- Public and private individual account visibility.
+- Organisation visibility and public-presence controls.
 - Groups and communities.
 - Community discovery and invitations.
 - Community administrators and moderators.
 - Member roles and permissions.
+- Community rules, governance, and moderation workflows.
 - Block, mute, restrict, and report.
 - Audience lists and selected sharing circles.
 
@@ -78,8 +86,9 @@ This catalogue preserves the feature ideas discussed so far. Inclusion means the
 - Search within conversations.
 - Message requests and controls.
 - Disappearing messages where appropriate.
-- Business messaging.
-- Community and event messaging.
+- Business and organisation-to-customer messaging.
+- Community channels and event messaging.
+- Communication-specific encryption policies, rather than one universal encryption rule.
 
 ### Social discovery
 - Trending topics and discussions.
@@ -103,6 +112,7 @@ This catalogue preserves the feature ideas discussed so far. Inclusion means the
 - Watch history and continue watching.
 - Playlists and saved videos.
 - Offline downloads where licensing permits.
+- Dedicated offline video mode that can switch off other platform activities.
 - Video chapters and timestamps.
 
 ### Publishing and creator tools
@@ -119,6 +129,9 @@ This catalogue preserves the feature ideas discussed so far. Inclusion means the
 
 ### Discovery and analytics
 - Video-specific recommendation feed.
+- Social-feed video previews that route playback into the dedicated video experience.
+- Related-video discovery after the selected video finishes.
+- Back navigation that returns to the originating social post and its prior context.
 - Trending and category pages.
 - Search and creator channels.
 - New releases and editorial collections.
@@ -590,3 +603,27 @@ This catalogue does not decide:
 - Exact payment custody, wallet, escrow, or financial-provider model.
 - Commercial fee percentages or creator revenue shares.
 - Which features are free, paid, or restricted by role.
+
+
+## 21. Progressive feature delivery and modular experiences
+
+- Lean core installation and streamlined first-run onboarding.
+- Optional in-app installation or enablement of role-specific tools, including creator tools.
+- Optional experience modules for users who need specialised capabilities.
+- On-demand downloads of supporting resources and assets.
+- Module discovery based on user intent, role, permissions, and context.
+- Module lifecycle management: install, update, disable, remove, and compatibility checks.
+- Shared authentication, identity, authorisation, design conventions, and platform policies across modules.
+- Platform-specific delivery strategies that comply with operating-system and app-distribution requirements.
+- Offline and low-connectivity behaviour for supported modules.
+
+## 22. Age-aware experiences and guardian controls
+
+- HDIP-established age-grade integration.
+- Kids Mode and age-appropriate experience configuration.
+- Section- and activity-specific age restrictions.
+- HDIP-established parent and guardian relationships.
+- Guardian-assigned privileges for eligible sections and activities.
+- Clear presentation of restricted, permitted, and guardian-authorised capabilities.
+- Policy enforcement and audit records for age- and guardian-based access decisions.
+- Jurisdiction-specific age, child-safety, and data-protection rules.
