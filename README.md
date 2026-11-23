@@ -25,7 +25,7 @@ The intended experience spans:
 
 ## Identity and verification
 
-HDIP (Hybrid Decentralised Identity Passport) is intended to provide an identity and credential verification foundation for verified participation and monetisation eligibility. The integration model, credential requirements, and role-specific checks will be specified separately.
+HDIP (Hybrid Decentralised Identity Passport) is intended to provide an identity and credential verification foundation for verified participation. The integration model, credential requirements, and role-specific checks will be specified separately.
 
 ## Repository map
 
