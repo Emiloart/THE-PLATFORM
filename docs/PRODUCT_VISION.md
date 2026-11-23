@@ -21,7 +21,19 @@ Examples:
 - Shopping needs structured catalogues, comparison, checkout, fulfilment, and buyer protection.
 - Meetings and conferences need collaboration controls rather than social-feed mechanics.
 
-Users should move between these environments without repeatedly logging out, creating unrelated accounts, or losing relevant context.
+Users should move between these environments without repeatedly logging out, creating unrelated accounts, or losing relevant context. Each individual has one primary account. Organisations have independent accounts and can add individuals through HDIP-established relationships, assigning scoped roles and permissions. Individuals may belong to multiple organisations and switch into an organisation context they are authorised to represent; the active identity must always be clear.
+
+The platform should provide persistent primary navigation that users can arrange and prioritise, alongside global search across all destinations with destination-specific filters. Transitions should preserve relevant context. For example, opening a video preview from a social post enters the dedicated video experience, and back navigation returns to the originating post.
+
+## Age-aware access
+
+Kids Mode and age-appropriate access are based on the user's HDIP-established age grade. HDIP establishes age and guardian relationships; the platform applies carefully scoped, section-specific access rules. Established parents or guardians can assign privileges to eligible sections and activities. Detailed policy must account for the nature of each activity and the legal requirements of each operating market.
+
+## Background activity and progressive enablement
+
+Music and audio playback should continue while users navigate elsewhere, with clear controls to pause or stop playback. Video should support offline viewing through a dedicated mode that can switch off other platform activities, subject to content rights and technical constraints.
+
+The initial installation should remain lean to reduce onboarding time. Users should be able to install or enable optional experience modules and role-specific tools, such as creator tools, when needed. The delivery mechanism may differ across operating systems and app-distribution policies. Modules must retain shared identity, permissions, and platform governance.
 
 ## Major experience domains
 
