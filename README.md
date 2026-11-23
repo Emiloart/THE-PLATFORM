@@ -27,12 +27,6 @@ The intended experience spans:
 
 HDIP (Hybrid Decentralised Identity Passport) is intended to provide an identity and credential verification foundation for verified participation and monetisation eligibility. The integration model, credential requirements, and role-specific checks will be specified separately.
 
-## Commercial thesis
-
-The business model is not limited to advertising and premium subscriptions. Potential revenue sources include marketplace commissions, transaction and service fees, delivery and fulfilment economics, creator and event tools, advertising, subscriptions, and other value-added services.
-
-The intended direction is to support monetisation eligibility from the point a user completes required identity verification and satisfies applicable product, policy, legal, rights, and safety requirements. Eligibility is not a promise of earnings or a guarantee that every monetisation method is available to every account.
-
 ## Repository map
 
 - [Product vision](docs/PRODUCT_VISION.md)
