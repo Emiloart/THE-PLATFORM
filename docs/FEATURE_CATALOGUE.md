@@ -595,10 +595,10 @@ Each feature area must define:
 ## Explicitly not decided
 
 This catalogue does not decide:
-- Final product name, branding, domain, or handles.
+- Final brand identity, domain, or handles. Axiely is the selected product name; legal and availability checks remain outstanding.
 - Initial launch market or release sequence.
 - Permanent navigation layout.
-- Technology stack, service boundaries, or database topology.
+- Approved technology stack, mobile client architecture, service boundaries, or database topology.
 - Exact HDIP credential schema or verification protocol.
 - Exact payment custody, wallet, escrow, or financial-provider model.
 - Commercial fee percentages or creator revenue shares.
