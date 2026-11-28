@@ -188,3 +188,7 @@ Do not submit material whose ownership or permission to use it is unclear.
 ## 12. Questions
 
 If the correct scope or decision status is unclear, raise the question before making a change that depends on an assumption. A concise proposal with alternatives and consequences is preferable to implementing an unapproved direction.
+
+## 13. Attribution
+
+human supervised developments should not be attributed to artificial intelligence as co developers, you can use them as tool but I want the repo to maintain human environment, simply put: I don't want to see coding agents listed as co developers.
