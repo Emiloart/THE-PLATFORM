@@ -6,8 +6,6 @@ This document separates current direction from matters that still require invest
 
 | ID | Topic | Current direction | Status |
 |---|---|---|---|
-| D-001 | Repository name | THE-PLATFORM remains the Git repository/project identifier, not the product brand. | Confirmed |
-| D-002 | Product name | Axiely is the selected product name. Trademark, conflict, domain, and handle checks remain outstanding before public brand rollout. | Selected; validation open |
 | D-003 | Experience model | One coherent platform with dedicated experiences for different activities. | Confirmed direction |
 | D-004 | Social and media feeds | Text/social, video, and audio should have distinct experiences rather than being indiscriminately mixed. | Confirmed direction |
 | D-005 | Marketplace | Managed and verified commerce, beyond a basic peer-to-peer classifieds model. | Confirmed direction |
