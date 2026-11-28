@@ -110,9 +110,7 @@ HDIP (Hybrid Decentralised Identity Passport) is intended to provide an identity
 
 Identity proof is not a guarantee of conduct, product quality, professional competence, or successful fulfilment. The platform needs separate reputation, monitoring, moderation, and enforcement systems.
 
-## Product name
 
-The selected product name is **Axiely**. The Git repository remains named `THE-PLATFORM` as a project/repository identifier; it is not the product name. Trademark and naming-conflict screening, domain availability, social-handle availability, and any required legal review remain separate validation tasks before public brand rollout.
 
 ## Technical direction status
 
