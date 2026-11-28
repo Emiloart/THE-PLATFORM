@@ -1,9 +1,5 @@
 # Axiely
 
-> **Product name selected: Axiely.** The Git repository remains `THE-PLATFORM`; the repository label is not the product brand. Trademark, domain, social-handle, and naming-conflict checks remain to be completed before public brand rollout.
-
-> **Working repository name only.** “THE-PLATFORM” is a temporary project label, not a final product or brand name. Naming, trademark screening, domain availability, and handle availability are intentionally deferred until the product direction is mature enough to support a proper naming exercise.
-
 An integrated digital ecosystem intended to let people socialise, create and consume media, run businesses, discover and purchase products and services, organise work, attend events, and manage transactions within one connected environment.
 
 This repository preserves the product vision, feature inventory, principles, and decisions as they develop. It is a product-definition repository, not an implementation specification or a commitment to deliver every capability at launch.
@@ -36,6 +32,7 @@ HDIP (Hybrid Decentralised Identity Passport) is intended to provide an identity
 - [Product principles](docs/PRODUCT_PRINCIPLES.md)
 - [Open questions and decisions](docs/OPEN_QUESTIONS.md)
 - [Technical architecture and decision records](docs/TECHNICAL_ARCHITECTURE.md)
+- [Contributing guide](CONTRIBUTING.md)
 
 ## Current status
 
@@ -46,6 +43,6 @@ HDIP (Hybrid Decentralised Identity Passport) is intended to provide an identity
 1. Preserve ideas before pruning scope.
 2. Distinguish confirmed direction from proposals and unresolved questions.
 3. Do not silently turn a discussion point into a binding product decision.
-4. Use Axiely as the selected product name; do not confuse it with the repository name. Complete legal and availability checks before public brand rollout.
+4. Use Axiely consistently in product documentation and user-facing materials.
 5. Expand features into specifications before approving implementation architecture.
 6. Treat trust, privacy, security, compliance, and operational accountability as product requirements, not later add-ons.
