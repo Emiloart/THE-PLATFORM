@@ -2,7 +2,6 @@
 
 **Status:** Initial architecture proposal and decision register. No implementation stack in this document is approved merely by being listed.
 **Product:** Axiely
-**Repository:** THE-PLATFORM
 
 ## 1. Purpose
 
