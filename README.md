@@ -1,4 +1,6 @@
-# THE-PLATFORM
+# Axiely
+
+> **Product name selected: Axiely.** The Git repository remains `THE-PLATFORM`; the repository label is not the product brand. Trademark, domain, social-handle, and naming-conflict checks remain to be completed before public brand rollout.
 
 > **Working repository name only.** “THE-PLATFORM” is a temporary project label, not a final product or brand name. Naming, trademark screening, domain availability, and handle availability are intentionally deferred until the product direction is mature enough to support a proper naming exercise.
 
@@ -33,6 +35,7 @@ HDIP (Hybrid Decentralised Identity Passport) is intended to provide an identity
 - [Master feature catalogue](docs/FEATURE_CATALOGUE.md)
 - [Product principles](docs/PRODUCT_PRINCIPLES.md)
 - [Open questions and decisions](docs/OPEN_QUESTIONS.md)
+- [Technical architecture and decision records](docs/TECHNICAL_ARCHITECTURE.md)
 
 ## Current status
 
@@ -43,6 +46,6 @@ HDIP (Hybrid Decentralised Identity Passport) is intended to provide an identity
 1. Preserve ideas before pruning scope.
 2. Distinguish confirmed direction from proposals and unresolved questions.
 3. Do not silently turn a discussion point into a binding product decision.
-4. Do not select a final name, domain, or brand identity by assumption.
-5. Expand features into specifications before designing implementation architecture.
+4. Use Axiely as the selected product name; do not confuse it with the repository name. Complete legal and availability checks before public brand rollout.
+5. Expand features into specifications before approving implementation architecture.
 6. Treat trust, privacy, security, compliance, and operational accountability as product requirements, not later add-ons.
