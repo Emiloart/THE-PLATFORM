@@ -6,8 +6,8 @@ This document separates current direction from matters that still require invest
 
 | ID | Topic | Current direction | Status |
 |---|---|---|---|
-| D-001 | Working name | THE-PLATFORM is a temporary repository/project label only. | Confirmed |
-| D-002 | Final naming | Final product name will be selected later after creative exploration and availability assessment. | Deferred |
+| D-001 | Repository name | THE-PLATFORM remains the Git repository/project identifier, not the product brand. | Confirmed |
+| D-002 | Product name | Axiely is the selected product name. Trademark, conflict, domain, and handle checks remain outstanding before public brand rollout. | Selected; validation open |
 | D-003 | Experience model | One coherent platform with dedicated experiences for different activities. | Confirmed direction |
 | D-004 | Social and media feeds | Text/social, video, and audio should have distinct experiences rather than being indiscriminately mixed. | Confirmed direction |
 | D-005 | Marketplace | Managed and verified commerce, beyond a basic peer-to-peer classifieds model. | Confirmed direction |
@@ -36,6 +36,8 @@ This document separates current direction from matters that still require invest
 | D-028 | Communication | Support direct and group messaging, organisation-to-customer communication, community channels, voice and video calls, and further communication capabilities. | Confirmed direction |
 | D-029 | Encryption | Encryption policy varies by communication type and use case. | Confirmed direction; policy details open |
 | D-030 | Social video routing | A video attached to a social post is represented by a preview in the feed and opens in the dedicated video experience. Related videos follow playback; back navigation returns to the originating post. | Confirmed |
+| D-031 | Mobile client strategy | Flutter is not an approved platform decision. Axiely's media requirements require a comparative evaluation of native-first and cross-platform/hybrid approaches before selection. | Open; Flutter proposal challenged |
+| D-032 | Media-critical client capabilities | Background audio, offline video, live streaming, synchronised watch experiences, media-session integration, downloads, and lifecycle behaviour must be evaluated as core native-platform requirements. | Confirmed architectural constraint |
 
 ## Open product questions
 
@@ -65,6 +67,13 @@ This document separates current direction from matters that still require invest
 - What are the boundaries between personal and business messaging?
 - What community discovery, membership, moderation, and governance models are needed?
 - How should users return to the exact originating feed position after opening a video preview?
+
+### Mobile architecture and platform capabilities
+- Should Axiely use native-first clients (Swift for iOS and Kotlin for Android), a shared cross-platform application with native media modules, or another hybrid approach?
+- Which media-critical destinations and capabilities require native UI and lifecycle ownership rather than platform-channel bridges?
+- What are the measurable acceptance criteria for background audio, offline video, live streaming, synchronised watch parties, playback continuity, media controls, battery use, memory use, and low-connectivity behaviour on both operating systems?
+- Which code, domain logic, design tokens, API contracts, and business rules can be shared without compromising native media control?
+- What is the staffing, delivery-time, maintenance, and testing cost of each mobile approach across iOS and Android?
 
 ### Video, audio, and live
 - Which upload formats, durations, resolutions, and streaming protocols are supported?
@@ -111,6 +120,10 @@ This document separates current direction from matters that still require invest
 - Which languages and currencies are initial priorities?
 - What local rules affect payments, commerce, food, transport, identity, privacy, and media licensing?
 - Which capabilities require country-specific partners?
+
+## Technical decision discipline
+
+The earlier broad technology-stack recommendation is a proposal, not an approved implementation baseline. Flutter is specifically not approved as the primary mobile framework. The mobile-client strategy must be evaluated against Axiely's actual media requirements before a decision is recorded. Do not describe a candidate technology as selected until the comparison, validation criteria, and decision rationale are documented.
 
 ## Decision discipline
 
