@@ -62,9 +62,9 @@ Every customer-facing capability implies support, moderation, dispute handling, 
 
 AI may support discovery, moderation, customer service, translation, creator workflows, and operational analysis. High-impact actions involving identity, money, enforcement, or access require explicit policies, auditability, and appropriate human review.
 
-## 16. Avoid premature architecture and branding
+## 16. Separate product naming from technical approval
 
-Do not select a final name, domain, logo, application structure, database topology, or deployment architecture before the relevant discovery and validation work.
+Axiely is the selected product name. The repository remains `THE-PLATFORM`. Complete trademark, naming-conflict, domain, and handle checks before public brand rollout. Product naming does not imply approval of a technology stack or implementation architecture.
 
 
 ## Age-aware access and guardianship
@@ -82,3 +82,8 @@ Music and audio playback should continue while users navigate elsewhere, with cl
 ## Progressive feature enablement
 
 Keep initial onboarding and the core installation lean. Optional experience modules and role-specific tools should be installable or enabled when users need them. This is a product requirement, not a mandated delivery mechanism: implementation must respect operating-system, app-store, security, and compatibility constraints. Optional modules must use shared identity and policy controls and must not fragment the account model.
+
+
+## Media capabilities are architectural requirements
+
+Background audio, offline video, live streaming, synchronised watch experiences, media-session controls, downloads, playback continuity, and platform-specific lifecycle behaviour must be treated as first-class architectural requirements. Do not assume a cross-platform UI framework can satisfy these requirements without measurable validation. Native platform capabilities and failure behaviour must be evaluated before approving the mobile application architecture.
