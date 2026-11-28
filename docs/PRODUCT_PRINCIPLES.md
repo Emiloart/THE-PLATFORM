@@ -62,9 +62,10 @@ Every customer-facing capability implies support, moderation, dispute handling, 
 
 AI may support discovery, moderation, customer service, translation, creator workflows, and operational analysis. High-impact actions involving identity, money, enforcement, or access require explicit policies, auditability, and appropriate human review.
 
-## 16. Separate product naming from technical approval
+## 16. Separate product decisions from technical approval
 
-Axiely is the selected product name. The repository remains `THE-PLATFORM`. Complete trademark, naming-conflict, domain, and handle checks before public brand rollout. Product naming does not imply approval of a technology stack or implementation architecture.
+Product direction and technical implementation decisions must be recorded independently. A product requirement does not automatically approve a particular framework, vendor, database topology, or deployment architecture. Technical choices must be justified against the requirements and validated before they become binding decisions.
+
 
 
 ## Age-aware access and guardianship
